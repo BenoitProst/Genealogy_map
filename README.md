@@ -1,8 +1,7 @@
-# Genealogy_heatmap
+# Genealogy_map
  Map montrant les lieux des ascendants à la **X génération**
 
-[Heatmap](https://benoitprost.github.io/Genealogy_heatmap/)
 
 # Backlog fonctionnalité
-- [ ] Possibilité de choisir le nombre de générations
-- [ ] Mettre des informations contextuelles sur les tics
+- [x] Possibilité de choisir le nombre de générations
+- [x] Mettre des informations contextuelles sur les tics
